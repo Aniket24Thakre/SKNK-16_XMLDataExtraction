@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="wk-release" />
+      <option name="name" value="wk-release" />
+      <option name="url" value="https://repo.wolterskluwer.io/nexus/content/groups/wkrelease/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wk-snapshot" />
+      <option name="name" value="wk-snapshot" />
+      <option name="url" value="https://repo.wolterskluwer.io/nexus/content/groups/wksnapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-public" />
+      <option name="name" value="apache-public" />
+      <option name="url" value="https://repository.apache.org/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="archiva" />
+      <option name="name" value="Release Repository" />
+      <option name="url" value="http://gpo-maven.wolterskluwer.com/archiva/repository/internal/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fusesource" />
+      <option name="name" value="fusesource" />
+      <option name="url" value="http://repo.fusesource.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wk_con" />
+      <option name="name" value="wk_con" />
+      <option name="url" value="http://gpo-maven.wolterskluwer.com/archiva/repository/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="Maven Central Repository" />
+      <option name="url" value="http://central.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fusesource.snapshot" />
+      <option name="name" value="fusesource.snapshot" />
+      <option name="url" value="http://repo.fusesource.com/nexus/content/groups/public-snapshots/" />
+    </remote-repository>
+  </component>
+</project>

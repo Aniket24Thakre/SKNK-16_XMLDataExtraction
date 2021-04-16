@@ -1,0 +1,1746 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<codeheader codesource="U:\California_RaUidpt15\2021\ADMIN\XML\\ca-2021-admin-title0001.xml" datatype="D" sessionyear="2021" statecd="CA">
+    	
+    <code type="Root">
+        <name>California Code Of Regulations</name>
+        		
+        <code type="Title">
+            <number>1</number>
+            <name>General Provisions</name>
+            			
+            <code type="Division">
+                <number>1</number>
+                <name>Office of Administrative Law</name>
+                				
+                <code type="Chapter">
+                    <number>1</number>
+                    <name>Review of Proposed Regulations</name>
+                    					
+                    <code type="Article">
+                        <number>1</number>
+                        <name>Chapter Definitions</name>
+                        						
+                        <code effect="am" type="Section">
+                            							
+                            <number>1</number>
+                            							
+                            <version>1</version>
+                            <name>Chapter Definitions</name>
+                            							
+						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>2</number>
+                        <name>Criteria Applied in the Review of Proposed Regulations</name>
+                        						
+                        <code type="Section">
+                            <number>4</number>
+                            <version>1</version>
+                            <name>Determination of Effect on Small Business</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>5</number>
+                            <version>1</version>
+                            <name>Submission of Notices for Publication</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>6</number>
+                            <version>1</version>
+                            <name>Hard-copy Submission of Regulatory Actions</name>
+                            							
+						
+                        </code>
+                        <code effect="en" type="Section">
+                            							
+                            <number>6.5</number>
+                            							
+                            <version>1</version>
+                            <name>Electronic Submission of Regulatory Actions</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>7</number>
+                            <version>1</version>
+                            <name>Marking File Numbers on Documents Submitted to OAL</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>8</number>
+                            <version>1</version>
+                            <name>Final Text: Underline and Strikeout</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>10</number>
+                            <version>1</version>
+                            <name>"Necessity"</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>11</number>
+                            <version>1</version>
+                            <name>"Necessity" in the Context of Mandated Regulations</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>12</number>
+                            <version>1</version>
+                            <name>"Nonduplication"</name>
+                            						
+                        </code>
+                        <code effect="am" type="Section">
+                            							
+                            <number>14</number>
+                            							
+                            <version>1</version>
+                            <name>"Authority" and "Reference."</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>16</number>
+                            <version>1</version>
+                            <name>"Clarity"</name>
+                            						
+                        </code>
+                        <code effect="am" type="Section">
+                            							
+                            <number>20</number>
+                            							
+                            <version>1</version>
+                            <name>"Incorporation by Reference."</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>40</number>
+                            <version>1</version>
+                            <name>"Nonsubstantial Changes"</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>42</number>
+                            <version>1</version>
+                            <name>"Sufficiently Related" Changes</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>44</number>
+                            <version>1</version>
+                            <name>Public Availability of Changes to Regulations</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>45</number>
+                            <version>1</version>
+                            <name>15-Day Public Availability of Supporting Documents and Information. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>46</number>
+                            <version>1</version>
+                            <name>"Clearly Indicated" Changes</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>48</number>
+                            <version>1</version>
+                            <name>Notice of Proposed Emergency Action</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>50</number>
+                            <version>1</version>
+                            <name>Special Requirements for Submission of Emergency Regulatory Actions</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>52</number>
+                            <version>1</version>
+                            <name>Readoption of Emergency Regulations</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>55</number>
+                            <version>1</version>
+                            <name>OAL Review of Public Comments</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>56</number>
+                            <version>1</version>
+                            <name>Emergency Regulations Adopted After Completion of Rulemaking Procedures</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>84</number>
+                            <version>1</version>
+                            <name>Incorporation of Prior Files by Reference</name>
+                            						
+                        </code>
+                        <code effect="am" type="Section">
+                            							
+                            <number>86</number>
+                            							
+                            <version>1</version>
+                            <name>Statement of Mailing Notice</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>90</number>
+                            <version>1</version>
+                            <name>"Transcript," "Recording," or "Minutes"</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>100</number>
+                            <version>1</version>
+                            <name>Publication of "Changes Without Regulatory Effect."</name>
+                            							
+						
+                        </code>
+                        <code effect="en" type="Section">
+                            							
+                            <number>101</number>
+                            							
+                            <version>1</version>
+                            <name>Digital Signature Acceptance</name>
+                            							
+						
+                        </code>
+                        <code type="Section">
+                            <number>120</number>
+                            <version>1</version>
+                            <name>Publication Date and Submission of Notice for Approval and Publication</name>
+                            						
+                        </code>
+                        <code type="Appendix">
+                            <number>A</number>
+                            <version>1</version>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>3</number>
+                        <name>PROCEDURES FOR REGULATORY DETERMINATIONS [REPEALED]</name>
+                        						
+                        <code type="Section">
+                            <number>121</number>
+                            <version>1</version>
+                            <name>Definitions. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>122</number>
+                            <version>1</version>
+                            <name>Contents of Requests for Determination. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>123</number>
+                            <version>1</version>
+                            <name>Processing a Request for Determination: Initial Receipt and Review, Summary Disposition. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>124</number>
+                            <version>1</version>
+                            <name>Publication of Request; Written Public Comments. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>125</number>
+                            <version>1</version>
+                            <name>Agency Response. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>125.5</number>
+                            <version>1</version>
+                            <name>Additional Information: Deadlines. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>126</number>
+                            <version>1</version>
+                            <name>Time Period Within Which OAL Shall Issue a Determination. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>127</number>
+                            <version>1</version>
+                            <name>Notification of the Issuance of a Determination. [Repealed]</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>128</number>
+                            <version>1</version>
+                            <name>Procedures Governing Issuance of a Determination by OAL on Its Own Motion. [Repealed]</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>4</number>
+                        <name>OFFICIAL VERSION OF THE CALIFORNIA CODE OF REGULATIONS [REPEALED]</name>
+                        						
+                        <code type="Section">
+                            <number>190</number>
+                            <version>1</version>
+                            <name>Official Version of the California Code of Regulations. [Repealed]</name>
+                            						
+                        </code>
+                    </code>
+                    				
+                </code>
+                				
+                <code type="Chapter">
+                    <number>2</number>
+                    <name>UNDERGROUND REGULATIONS</name>
+                    					
+                    <code type="Section">
+                        <number>250</number>
+                        <version>1</version>
+                        <name>Definitions</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>260</number>
+                        <version>1</version>
+                        <name>Submission of Petitions Regarding Underground Regulations</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>270</number>
+                        <version>1</version>
+                        <name>OAL Review of Petitions Regarding Underground Regulations</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>280</number>
+                        <version>1</version>
+                        <name>Suspension of Actions Regarding Underground Regulations</name>
+                        					
+                    </code>
+                </code>
+                			
+            </code>
+            			
+            <code type="Division">
+                <number>2</number>
+                <name>OFFICE OF ADMINISTRATIVE HEARINGS</name>
+                				
+                <code type="Chapter">
+                    <number>1</number>
+                    <name>GENERAL APA HEARING PROCEDURES</name>
+                    					
+                    <code type="Section">
+                        <number>1000</number>
+                        <version>1</version>
+                        <name>Purpose</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1002</number>
+                        <version>1</version>
+                        <name>Definitions</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1004</number>
+                        <version>1</version>
+                        <name>Construction of Regulations</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1006</number>
+                        <version>1</version>
+                        <name>Format and Filing of Papers</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1008</number>
+                        <version>1</version>
+                        <name>Service; Proof of Service</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1012</number>
+                        <version>1</version>
+                        <name>Ex Parte Petitions and Applications for Temporary or Interim Orders</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1014</number>
+                        <version>1</version>
+                        <name>Pleadings; Notice of Defense; Withdrawal of Notice of Defense</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1015</number>
+                        <version>1</version>
+                        <name>Notice of Representation and Withdrawal of Counsel or Other Representative</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1016</number>
+                        <version>1</version>
+                        <name>Consolidated Proceedings; Separate Hearings</name>
+                        					
+                    </code>
+                    <code currency="N" effect="pam" operationaldate="1/1/2015" overlay="A" type="Section">
+                        						
+                        <number>1018</number>
+                        						
+                        <version>1</version>
+                        <name>Disciplinary Guidelines and Exceptions for Uniform Standards Related to Substance-Abusing Licensees</name>
+                        						
+					
+                    </code>
+                    <code type="Section">
+                        <number>1019</number>
+                        <version>1</version>
+                        <name>Request for Security</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1020</number>
+                        <version>1</version>
+                        <name>Motion for Continuance of Hearing</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1022</number>
+                        <version>1</version>
+                        <name>Motions</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1024</number>
+                        <version>1</version>
+                        <name>Subpoenas; Motion for a Protective Order</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1026</number>
+                        <version>1</version>
+                        <name>Prehearing Conferences</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1027</number>
+                        <version>1</version>
+                        <name>Informal Hearings</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1028</number>
+                        <version>1</version>
+                        <name>Settlement Conferences; Settlements</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1030</number>
+                        <version>1</version>
+                        <name>Conduct of Hearing; Protective Orders</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1032</number>
+                        <version>1</version>
+                        <name>Interpreters and Accommodation</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1034</number>
+                        <version>1</version>
+                        <name>Peremptory Challenge</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1036</number>
+                        <version>1</version>
+                        <name>Conduct of Proceedings; Sealing the Record</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1038</number>
+                        <version>1</version>
+                        <name>Ordering the Record</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1040</number>
+                        <version>1</version>
+                        <name>Monetary Sanctions</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1042</number>
+                        <version>1</version>
+                        <name>Cost Recovery</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1044</number>
+                        <version>1</version>
+                        <name>Request for Expenses After Default</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1046</number>
+                        <version>1</version>
+                        <name>Amicus Briefs</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1048</number>
+                        <version>1</version>
+                        <name>Technical and Minor Changes to Proposed and Final Decisions</name>
+                        					
+                    </code>
+                    <code type="Section">
+                        <number>1050</number>
+                        <version>1</version>
+                        <name>Remand or Reconsideration</name>
+                        					
+                    </code>
+                </code>
+                				
+                <code type="Chapter">
+                    <number>2</number>
+                    <name>SPECIAL HEARING PROCEDURES(JULY 1, 1997)</name>
+                    					
+                    <code type="Article">
+                        <number>1</number>
+                        <name>STATE AGENCY REPORTS AND FORMS APPEAL PROCEDURE</name>
+                        						
+                        <code type="Section">
+                            <number>1100</number>
+                            <version>1</version>
+                            <name>Applicability of the Administrative Procedure Act; Definitions</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1102</number>
+                            <version>1</version>
+                            <name>Time and Place for Filing Appeal; Fees</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1104</number>
+                            <version>1</version>
+                            <name>Contents of Appeal</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1106</number>
+                            <version>1</version>
+                            <name>Response of Agency, Setting of Hearing and Notice to Parties</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1108</number>
+                            <version>1</version>
+                            <name>Waiver of Hearing; Document Review</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1110</number>
+                            <version>1</version>
+                            <name>Location of Hearing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1112</number>
+                            <version>1</version>
+                            <name>Recording of Hearing and Transcription</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1114</number>
+                            <version>1</version>
+                            <name>Appeal Decision; Award of Costs</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>2</number>
+                        <name>APPEAL PROCEDURE FOR CHILD CARE AND DEVELOPMENT CONTRACT DISPUTES</name>
+                        						
+                        <code type="Section">
+                            <number>1120</number>
+                            <version>1</version>
+                            <name>Time Deadlines</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1121</number>
+                            <version>1</version>
+                            <name>Notice to Affected Parties</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1122</number>
+                            <version>1</version>
+                            <name>Recording of Hearing and Transcription</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1123</number>
+                            <version>1</version>
+                            <name>Hearing Sites</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1124</number>
+                            <version>1</version>
+                            <name>Contents of Petition</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1125</number>
+                            <version>1</version>
+                            <name>Notice of Representation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1126</number>
+                            <version>1</version>
+                            <name>Lack of Jurisdiction</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>3</number>
+                        <name>APPEAL PROCEDURE FOR DIRECT SERVICE CONTRACT DISPUTES BETWEEN PRIVATE, NON-PROFIT HUMAN SERVICE ORGANIZATIONS AND HEALTH AND WELFARE AGENCY AND ITS COMPONENT DEPARTMENTS</name>
+                        						
+                        <code type="Section">
+                            <number>1140</number>
+                            <version>1</version>
+                            <name>Time Deadlines</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1141</number>
+                            <version>1</version>
+                            <name>Notice to Affected Parties</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1142</number>
+                            <version>1</version>
+                            <name>Recording of Hearing and Transcription</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1143</number>
+                            <version>1</version>
+                            <name>Hearing Sites</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1144</number>
+                            <version>1</version>
+                            <name>Contents of Petition</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1145</number>
+                            <version>1</version>
+                            <name>Notice of Representation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1146</number>
+                            <version>1</version>
+                            <name>Subpoenas</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1147</number>
+                            <version>1</version>
+                            <name>Hearing Procedures</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1148</number>
+                            <version>1</version>
+                            <name>Powers and Responsibilities of the Office of Administrative Hearings</name>
+                            						
+                        </code>
+                    </code>
+                    				
+                </code>
+                				
+                <code type="Chapter">
+                    <number>3</number>
+                    <name>AGENCY ALTERNATIVES TO FORMAL HEARINGS -ALTERNATIVE DISPUTE RESOLUTION</name>
+                    					
+                    <code type="Article">
+                        <number>1</number>
+                        <name>GENERAL PROVISIONS</name>
+                        						
+                        <code type="Section">
+                            <number>1200</number>
+                            <version>1</version>
+                            <name>Scope</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1202</number>
+                            <version>1</version>
+                            <name>Purpose</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1204</number>
+                            <version>1</version>
+                            <name>Definitions</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1206</number>
+                            <version>1</version>
+                            <name>Referral to ADR</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1208</number>
+                            <version>1</version>
+                            <name>Standards of Conduct for Neutrals</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1210</number>
+                            <version>1</version>
+                            <name>Resumes of Neutrals</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>2</number>
+                        <name>MEDIATION</name>
+                        						
+                        <code type="Section">
+                            <number>1212</number>
+                            <version>1</version>
+                            <name>Mediation; Definition</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1214</number>
+                            <version>1</version>
+                            <name>Initiation of Mediation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1216</number>
+                            <version>1</version>
+                            <name>Appointment of Mediator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1218</number>
+                            <version>1</version>
+                            <name>Cost of Mediation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1220</number>
+                            <version>1</version>
+                            <name>Date, Time and Place of Mediation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1222</number>
+                            <version>1</version>
+                            <name>Attendance at Mediation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1224</number>
+                            <version>1</version>
+                            <name>Statements Before Mediation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1226</number>
+                            <version>1</version>
+                            <name>Confidentiality</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1228</number>
+                            <version>1</version>
+                            <name>Agreements</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1230</number>
+                            <version>1</version>
+                            <name>Termination of Mediation</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>3</number>
+                        <name>ARBITRATION</name>
+                        						
+                        <code type="Section">
+                            <number>1232</number>
+                            <version>1</version>
+                            <name>Arbitration; Definition; General Rules</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1234</number>
+                            <version>1</version>
+                            <name>Agreement to Arbitrate</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1236</number>
+                            <version>1</version>
+                            <name>Selection of Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1238</number>
+                            <version>1</version>
+                            <name>Costs</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1240</number>
+                            <version>1</version>
+                            <name>Timing and Scheduling the Hearing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1242</number>
+                            <version>1</version>
+                            <name>Discovery</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1244</number>
+                            <version>1</version>
+                            <name>Conference Before Arbitration</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1246</number>
+                            <version>1</version>
+                            <name>Statements Before Arbitration</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1248</number>
+                            <version>1</version>
+                            <name>Attendance at Arbitration</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1250</number>
+                            <version>1</version>
+                            <name>Authority or Arbitrators</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1252</number>
+                            <version>1</version>
+                            <name>Procedures at Arbitration</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1254</number>
+                            <version>1</version>
+                            <name>Defaults</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1256</number>
+                            <version>1</version>
+                            <name>Decision</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1258</number>
+                            <version>1</version>
+                            <name>Proceeding De Novo</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>4</number>
+                        <name>MODEL REGULATIONS FOR DECLARATORY DECISIONS</name>
+                        						
+                        <code type="Section">
+                            <number>1260</number>
+                            <version>1</version>
+                            <name>Definitions</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1262</number>
+                            <version>1</version>
+                            <name>Scope of Declaratory Decisions</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1264</number>
+                            <version>1</version>
+                            <name>Application for a Declaratory Decision</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1266</number>
+                            <version>1</version>
+                            <name>Initial Agency Review of Application</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1270</number>
+                            <version>1</version>
+                            <name>Agency Notice of Application for Declaratory Decision</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1272</number>
+                            <version>1</version>
+                            <name>Initial Decision to Consider Application</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1274</number>
+                            <version>1</version>
+                            <name>Denial of Application; Application Denied After Commencement of Declaratory Decision Proceeding</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1276</number>
+                            <version>1</version>
+                            <name>Agency Notice of Declaratory Decision Proceeding</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1278</number>
+                            <version>1</version>
+                            <name>Requests for Notice of Declaratory Decision Proceedings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1280</number>
+                            <version>1</version>
+                            <name>Right to Dissent or Submit Written Comments to the Agency; Availability of Comments</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1282</number>
+                            <version>1</version>
+                            <name>Request to Become a Party or an Intervenor</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1284</number>
+                            <version>1</version>
+                            <name>Hearings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1286</number>
+                            <version>1</version>
+                            <name>Declaratory Decision Proceeding Record</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1288</number>
+                            <version>1</version>
+                            <name>Issuance and Service of a Declaratory Decision</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1290</number>
+                            <version>1</version>
+                            <name>The Effect of a Declaratory Decision</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1292</number>
+                            <version>1</version>
+                            <name>Judicial Review of a Declaratory Decision</name>
+                            						
+                        </code>
+                    </code>
+                    				
+                </code>
+                				
+                <code type="Chapter">
+                    <number>4</number>
+                    <name>ARBITRATION OF CLAIMS UNDER STATE CONTRACT ACT CONTRACTS</name>
+                    					
+                    <code type="Article">
+                        <number>1</number>
+                        <name>GENERAL PROVISIONS</name>
+                        						
+                        <code type="Section">
+                            <number>1300</number>
+                            <version>1</version>
+                            <name>Introduction</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1301</number>
+                            <version>1</version>
+                            <name>Definitions</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1302</number>
+                            <version>1</version>
+                            <name>Interpretation and Application of Subchapter</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1303</number>
+                            <version>1</version>
+                            <name>Communication with the Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1304</number>
+                            <version>1</version>
+                            <name>Representation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1305</number>
+                            <version>1</version>
+                            <name>Service and Filing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1306</number>
+                            <version>1</version>
+                            <name>Waiver of Rules</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>2</number>
+                        <name>OFFICE OF ADMINISTRATIVE HEARINGS</name>
+                        						
+                        <code type="Section">
+                            <number>1310</number>
+                            <version>1</version>
+                            <name>Exercise of Administrative Authority</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1311</number>
+                            <version>1</version>
+                            <name>Payment of Costs</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1312</number>
+                            <version>1</version>
+                            <name>Docketing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1313</number>
+                            <version>1</version>
+                            <name>Bar Pending Public Agency Decision</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1314</number>
+                            <version>1</version>
+                            <name>Absence of an Appointed Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1315</number>
+                            <version>1</version>
+                            <name>Absence of an Appointed Arbitrator</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>3</number>
+                        <name>SELECTION OF ARBITRATOR</name>
+                        						
+                        <code type="Section">
+                            <number>1320</number>
+                            <version>1</version>
+                            <name>Qualifications of Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1321</number>
+                            <version>1</version>
+                            <name>Selection of Arbitrators</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1322</number>
+                            <version>1</version>
+                            <name>Disclosure and Challenge Procedure</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1323</number>
+                            <version>1</version>
+                            <name>Notice to Arbitrator of Appointment</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1324</number>
+                            <version>1</version>
+                            <name>Vacancy</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>4</number>
+                        <name>AUTHORITY OF ARBITRATOR</name>
+                        						
+                        <code type="Section">
+                            <number>1330</number>
+                            <version>1</version>
+                            <name>Jurisdiction</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1331</number>
+                            <version>1</version>
+                            <name>Lack of Jurisdiction</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1332</number>
+                            <version>1</version>
+                            <name>Appointment of Special Arbitrator to Determine Acceptance of the Work</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1333</number>
+                            <version>1</version>
+                            <name>Expert Advisors</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1334</number>
+                            <version>1</version>
+                            <name>Lack of Prosecution</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1335</number>
+                            <version>1</version>
+                            <name>Lack of Prosecution</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>5</number>
+                        <name>SIMPLIFIED CLAIMS PROCEDURE</name>
+                        						
+                        <code type="Section">
+                            <number>1340</number>
+                            <version>1</version>
+                            <name>When Available</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1341</number>
+                            <version>1</version>
+                            <name>Election</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1342</number>
+                            <version>1</version>
+                            <name>Simplified Selection of Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1343</number>
+                            <version>1</version>
+                            <name>Limited Discovery</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1344</number>
+                            <version>1</version>
+                            <name>Initial Record</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1345</number>
+                            <version>1</version>
+                            <name>Hearings and Award</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1346</number>
+                            <version>1</version>
+                            <name>Other Provisions Applicable</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1347</number>
+                            <version>1</version>
+                            <name>Submission on Agreed Facts or Summary Judgment</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>6</number>
+                        <name>PLEADINGS</name>
+                        						
+                        <code type="Section">
+                            <number>1350</number>
+                            <version>1</version>
+                            <name>Complaint, When Due</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1351</number>
+                            <version>1</version>
+                            <name>Contents of Complaint in Arbitration</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1352</number>
+                            <version>1</version>
+                            <name>Joinder; Intervention</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1353</number>
+                            <version>1</version>
+                            <name>Amendment of Pleadings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1354</number>
+                            <version>1</version>
+                            <name>Answer</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1355</number>
+                            <version>1</version>
+                            <name>Contents of Answer to the Complaint</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1356</number>
+                            <version>1</version>
+                            <name>Objection to Complaint: Grounds</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1357</number>
+                            <version>1</version>
+                            <name>Cross-Complaint</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>7</number>
+                        <name>DISCOVERY AND MOTIONS</name>
+                        						
+                        <code type="Section">
+                            <number>1360</number>
+                            <version>1</version>
+                            <name>Discovery</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1361</number>
+                            <version>1</version>
+                            <name>Motions</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1362</number>
+                            <version>1</version>
+                            <name>Notice of Representation</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1363</number>
+                            <version>1</version>
+                            <name>Complaint, When Due</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1364</number>
+                            <version>1</version>
+                            <name>Contents of Complaint in Arbitration</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1365</number>
+                            <version>1</version>
+                            <name>Amendment of Pleadings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1366</number>
+                            <version>1</version>
+                            <name>Answer</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1367</number>
+                            <version>1</version>
+                            <name>Contents of Answer to the Complaint</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1368</number>
+                            <version>1</version>
+                            <name>Objection to Complaint: Grounds</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1369</number>
+                            <version>1</version>
+                            <name>Cross-Complaint</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>8</number>
+                        <name>DEFAULT</name>
+                        						
+                        <code type="Section">
+                            <number>1370</number>
+                            <version>1</version>
+                            <name>Failure to Respond to Complaint or Cross-Complaint in Arbitration</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1371</number>
+                            <version>1</version>
+                            <name>Disobedience of Lawful Order</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1372</number>
+                            <version>1</version>
+                            <name>Default at Time of Hearing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1373</number>
+                            <version>1</version>
+                            <name>Default Proceedings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1374</number>
+                            <version>1</version>
+                            <name>Entry of Default</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1375</number>
+                            <version>1</version>
+                            <name>Effect of a Default</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1376</number>
+                            <version>1</version>
+                            <name>Election</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1377</number>
+                            <version>1</version>
+                            <name>Selection of Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1378</number>
+                            <version>1</version>
+                            <name>Limited Discovery</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1379</number>
+                            <version>1</version>
+                            <name>Initial Record</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>9</number>
+                        <name>HEARINGS</name>
+                        						
+                        <code type="Section">
+                            <number>1380</number>
+                            <version>1</version>
+                            <name>Prehearing Conference; Preparation for Hearing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1381</number>
+                            <version>1</version>
+                            <name>Setting, Notice and Place of Hearings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1382</number>
+                            <version>1</version>
+                            <name>Arguments, Briefs and Proposed Findings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1383</number>
+                            <version>1</version>
+                            <name>Attendance at Hearings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1384</number>
+                            <version>1</version>
+                            <name>Bifurcation of Hearing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1385</number>
+                            <version>1</version>
+                            <name>Continuances; Adjournment</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1386</number>
+                            <version>1</version>
+                            <name>Submission on Agreed Facts or Summary Judgment</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1387</number>
+                            <version>1</version>
+                            <name>Evidence</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1388</number>
+                            <version>1</version>
+                            <name>Notice of Judicially Noticeable Facts</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1389</number>
+                            <version>1</version>
+                            <name>Record of the Proceedings</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>10</number>
+                        <name>DECISIONS AND AWARD</name>
+                        						
+                        <code type="Section">
+                            <number>1390</number>
+                            <version>1</version>
+                            <name>Decision on the Merits</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1391</number>
+                            <version>1</version>
+                            <name>Decision on Settlement</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1392</number>
+                            <version>1</version>
+                            <name>Decision on Costs and Attorney's Fees</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1393</number>
+                            <version>1</version>
+                            <name>Final Award</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>11</number>
+                        <name>CERTIFICATION OF ARBITRATORS BY THE PUBLIC WORKS CONTRACT ARBITRATION COMMITTEE</name>
+                        						
+                        <code type="Section">
+                            <number>1395</number>
+                            <version>1</version>
+                            <name>Standards and Qualifications</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1398</number>
+                            <version>1</version>
+                            <name>Recertification of Arbitrators</name>
+                            						
+                        </code>
+                    </code>
+                    				
+                </code>
+                				
+                <code type="Chapter">
+                    <number>5</number>
+                    <name>PROCEDURES FOR CONDUCTING PROTESTS UNDER THE ALTERNATIVE PROTEST PILOT PROJECT</name>
+                    					
+                    <code type="Article">
+                        <number>1</number>
+                        <name>GENERAL PROVISIONS</name>
+                        						
+                        <code type="Section">
+                            <number>1400</number>
+                            <version>1</version>
+                            <name>Purpose; Scope of Chapter</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1402</number>
+                            <version>1</version>
+                            <name>Definitions</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1404</number>
+                            <version>1</version>
+                            <name>Notice of Intent to Award Contract</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>2</number>
+                        <name>PROTEST PROCEDURE</name>
+                        						
+                        <code type="Section">
+                            <number>1406</number>
+                            <version>1</version>
+                            <name>Notice of Intent to Protest; Service List</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1408</number>
+                            <version>1</version>
+                            <name>Filing a Protest</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1410</number>
+                            <version>1</version>
+                            <name>Grounds for Protest</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1412</number>
+                            <version>1</version>
+                            <name>Detailed Written Statement of Protest</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1414</number>
+                            <version>1</version>
+                            <name>Review by Coordinator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1416</number>
+                            <version>1</version>
+                            <name>Review and Response by Contracting Department and Awardee</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1418</number>
+                            <version>1</version>
+                            <name>Bond Requirement</name>
+                            						
+                        </code>
+                    </code>
+                    					
+                    <code type="Article">
+                        <number>3</number>
+                        <name>ARBITRATION PROCEDURE</name>
+                        						
+                        <code type="Section">
+                            <number>1420</number>
+                            <version>1</version>
+                            <name>Arbitration Process</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1422</number>
+                            <version>1</version>
+                            <name>Selection of Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1424</number>
+                            <version>1</version>
+                            <name>Authority of Arbitrator</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1426</number>
+                            <version>1</version>
+                            <name>Decision Based in Whole or in Part on Documents Alone</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1428</number>
+                            <version>1</version>
+                            <name>Prehearing Conference</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1430</number>
+                            <version>1</version>
+                            <name>Scheduling the Hearing</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1432</number>
+                            <version>1</version>
+                            <name>Discovery</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1434</number>
+                            <version>1</version>
+                            <name>Attendance at Hearings</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1436</number>
+                            <version>1</version>
+                            <name>Arbitrator's Decision</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1437</number>
+                            <version>1</version>
+                            <name>Costs</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1438</number>
+                            <version>1</version>
+                            <name>Judicial Review</name>
+                            						
+                        </code>
+                        <code type="Section">
+                            <number>1440</number>
+                            <version>1</version>
+                            <name>Transcripts</name>
+                            						
+                        </code>
+                    </code>
+                    				
+                </code>
+                			
+            </code>
+            			
+            <code type="Division">
+                				
+                <number>3</number>
+                				
+                <name>DEPARTMENT OF FINANCE</name>
+                				
+                <code type="Chapter">
+                    					
+                    <number>1</number>
+                    					
+                    <name>STANDARDIZED REGULATORY IMPACT ASSESSMENT FOR MAJOR REGULATIONS</name>
+                    					
+                    <code type="Section">
+                        						
+                        <number>2000</number>
+                        						
+                        <version>1</version>
+                        <name>Definitions</name>
+                        						
+					
+                    </code>
+                    <code type="Section">
+                        						
+                        <number>2001</number>
+                        						
+                        <version>1</version>
+                        <name>Notification; Public Input</name>
+                        						
+					
+                    </code>
+                    <code type="Section">
+                        						
+                        <number>2002</number>
+                        						
+                        <version>1</version>
+                        <name>Standardized Regulatory Impact Assessment</name>
+                        						
+					
+                    </code>
+                    <code type="Section">
+                        						
+                        <number>2003</number>
+                        						
+                        <version>1</version>
+                        <name>Methodology for Making Estimates</name>
+                        						
+					
+                    </code>
+                    <code type="Section">
+                        						
+                        <number>2004</number>
+                        						
+                        <version>1</version>
+                        <name>Failure to Comply with Requirements of this Chapter</name>
+                        						
+					
+                    </code>
+                </code>
+                			
+            </code>
+            		
+        </code>
+        	
+    </code>
+    
+</codeheader>
